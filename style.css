@@ -15,11 +15,6 @@ html {
     margin: 10px;
 }
 
-.card img {
-    height: 27rem;
-    object-fit: contain;
-}
-
 .container p a {
     text-decoration: none;
 }
